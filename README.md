@@ -22,7 +22,7 @@ The dataset is provided in an Excel file named `Excel Project Dataset.xlsx`. It 
 - **Region**: The region where the individual resides (e.g., Europe, Pacific).
 - **Age**: The age of the individual.
 - **Age Brackets**: Categorization of age into "Old Age," "Middle Age," or "Adult."
-- **Purchased Bike**: Indicates whether the individual purchased a bike (Yes or No).
+- **Purchased Bike**: Indicates whether the individual purchased a bike (Yes or No).  
 
 ## Analysis and Insights
 - **Age Brackets**: The "Age Brackets" column is calculated using an Excel formula that categorizes individuals based on their age:
