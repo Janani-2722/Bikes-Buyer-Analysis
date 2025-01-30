@@ -36,7 +36,7 @@ The dataset is provided in an Excel file named `Excel Project Dataset.xlsx`. It 
   - **Age**: Middle-aged individuals (31-54) are the most likely to purchase bikes.
 
 ## Bike analysis dashboard
-![Description of the image](images/Dashboard.png)
+![Image](Dashboard.png)
 
 ## Conclusion
 This project provides valuable insights into the factors influencing bike purchases, such as income, age, occupation, and region. The analysis highlights key trends, such as middle-aged individuals with higher incomes being more likely to purchase bikes. These findings can help businesses tailor their marketing strategies to target the right audience effectively. The dataset and analysis are available in the Excel file, and further exploration can be done using the provided data.
