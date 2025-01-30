@@ -38,5 +38,7 @@ The dataset is provided in an Excel file named `Excel Project Dataset.xlsx`. It 
 ## Bike analysis dashboard
 ![Image](Dashboard.png)
 
+https://www.loom.com/share/f19d52e6335e49408906df11ad161a1d?sid=ef2714e8-817d-4cef-9e85-40f3ff64c67d
+
 ## Conclusion
 This project provides valuable insights into the factors influencing bike purchases, such as income, age, occupation, and region. The analysis highlights key trends, such as middle-aged individuals with higher incomes being more likely to purchase bikes. These findings can help businesses tailor their marketing strategies to target the right audience effectively. The dataset and analysis are available in the Excel file, and further exploration can be done using the provided data.
